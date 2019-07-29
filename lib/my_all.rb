@@ -9,4 +9,5 @@ def my_all?(collection)
     end
     i += 1
   end
+  block_return_values
 end
